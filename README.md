@@ -17,3 +17,6 @@ Each day contains:
 | Day | Topic | Status |
 |----|------|------|
 | Day01 | AWS Key Pair | ✅ Completed |
+| Day02 | Create Security Group | ✅ Completed |
+| Day03 | Create Subnet | ✅ Completed |
+| Day04 | Enable Versioning for S3 Bucket | ✅ Completed |
