@@ -20,3 +20,7 @@ Each day contains:
 | Day02 | Create Security Group | ✅ Completed |
 | Day03 | Create Subnet | ✅ Completed |
 | Day04 | Enable Versioning for S3 Bucket | ✅ Completed |
+| Day05 | Create GP3 Volume | ✅ Completed |
+| Day06 | Launch EC2 Instance | ✅ Completed |
+| Day07 | Change EC2 Instance Type | ✅ Completed |
+| Day08 | Enable Stop Protection for EC2 Instance | ✅ Completed |
