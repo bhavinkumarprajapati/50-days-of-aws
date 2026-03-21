@@ -1,4 +1,4 @@
-# 100 Days of AWS Challenge (KodeKloud)
+# 50 Days of AWS Challenge (KodeKloud)
 
 This repository documents my journey of completing the **100 Days of AWS Challenge** on KodeKloud.
 
