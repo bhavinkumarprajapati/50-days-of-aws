@@ -24,3 +24,5 @@ Each day contains:
 | Day06 | Launch EC2 Instance | ✅ Completed |
 | Day07 | Change EC2 Instance Type | ✅ Completed |
 | Day08 | Enable Stop Protection for EC2 Instance | ✅ Completed |
+| Day09 | Enable Termination Protection for EC2 Instance | ✅ Completed |
+| Day10 | Attach Elastic IP to EC2 Instance | ✅ Completed |
