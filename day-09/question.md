@@ -1,8 +1,11 @@
-# Day 07 – Enable EC2 Stop Protection (CLI Only)
+# Day 09 – Enable EC2 Termination Protection (CLI Only)
 
 ## Objective
 
-Enable stop protection for EC2 instance:
+Enable termination protection for the EC2 instance:
 
-- Instance Name: devops-ec2
-- Region: us-east-1
+| Parameter | Value |
+|-----------|------|
+| Instance Name | xfusion-ec2 |
+| Feature | Termination Protection |
+| Region | us-east-1 |
